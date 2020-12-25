@@ -17,11 +17,11 @@ const mainBody = {
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://www.facebook.com/",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/",
     },
     {
       image: "fa-linkedin",
@@ -29,7 +29,7 @@ const mainBody = {
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "https://www.twitter.com/habiphakanisler/",
     },
   ],
 };
@@ -55,8 +55,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "hippalus",
-  reposLength: 4,
-  specificRepos: [],
+  reposLength: 0,
+  specificRepos: ["courier-tracking","food-ordering-system","log_stats","incident_management","tdd-kata-subscriber-api"],
 };
 
 // Leadership SECTION
